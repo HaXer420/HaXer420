@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HaXer420
-- 👀 I’m interested in Web Development Using Blockchain
-- 🌱 I’m currently learning Blockchain Development,MERN Stack Development,Flutter with Dart and NFT(basic views of NFT market places).
-- 💞️ I’m looking to collaborate on Blockchain Based web techniques
+- 👀 I’m interested in Web/Mobile Application Development Using MERN
+- 🌱 I’m currently working on backend based on Nodejs with MongoDB as DB and REACT as front-end, mostly follow MVC Architecture.
+- 💞️ I’m looking to collaborate on MERN,MEAN and MEVN stack based projects.
 - 📫 How to reach me (you can reach on my e-mail [massabiftkhar@gmail.com]
 
 <!---
