@@ -42,7 +42,7 @@ My work often starts with raw data, an unclear workflow, or a real product requi
 <tr>
 <td width="50%">
 
-### Multimodal Fall Detection Analytics
+<strong>Multimodal Fall Detection Analytics</strong>
 
 MSc dissertation project using the UP-Fall Detection Dataset to classify fall and non-fall activity from multimodal sensor readings.
 
@@ -53,7 +53,7 @@ MSc dissertation project using the UP-Fall Detection Dataset to classify fall an
 </td>
 <td width="50%">
 
-### Production Data Workflows
+<strong>Production Data Workflows</strong>
 
 Backend and dashboard systems involving PostgreSQL, MongoDB, background jobs, real-time alerts, and AWS deployment.
 
@@ -67,7 +67,7 @@ Backend and dashboard systems involving PostgreSQL, MongoDB, background jobs, re
 <tr>
 <td width="50%">
 
-### Geofencing Alert System
+<strong>Geofencing Alert System</strong>
 
 Location-based monitoring workflow processing 1,000+ location checks per day and triggering real-time notifications.
 
@@ -78,7 +78,7 @@ Private professional work
 </td>
 <td width="50%">
 
-### PostgreSQL Workflow Optimisation
+<strong>PostgreSQL Workflow Optimisation</strong>
 
 Worked on data-heavy PostgreSQL workflows across 300+ schemas and 50+ table interactions, improving processing delays through query and transaction tuning.
 
@@ -96,14 +96,14 @@ Private professional work
 <tr>
 <td width="50%">
 
-### Data Analysis
+<strong>Data Analysis</strong>
 
 Python, Pandas, NumPy, SQL, Excel, data cleaning, feature extraction, descriptive statistics.
 
 </td>
 <td width="50%">
 
-### Machine Learning
+<strong>Machine Learning</strong>
 
 Scikit-learn, TensorFlow, Keras, Random Forest, SVM, BiLSTM, precision, recall, F1, AUC.
 
@@ -113,14 +113,14 @@ Scikit-learn, TensorFlow, Keras, Random Forest, SVM, BiLSTM, precision, recall, 
 <tr>
 <td width="50%">
 
-### Software Engineering
+<strong>Software Engineering</strong>
 
 JavaScript, TypeScript, Node.js, NestJS, React, Next.js, REST APIs, WebSockets.
 
 </td>
 <td width="50%">
 
-### Databases and Cloud
+<strong>Databases and Cloud</strong>
 
 PostgreSQL, MySQL, MongoDB, Redis, AWS EC2, S3, Docker, Git, CI/CD.
 
@@ -130,14 +130,14 @@ PostgreSQL, MySQL, MongoDB, Redis, AWS EC2, S3, Docker, Git, CI/CD.
 <tr>
 <td width="50%">
 
-### Product Surfaces
+<strong>Product Surfaces</strong>
 
 Dashboards, APIs, documentation, Swagger/OpenAPI, reporting workflows.
 
 </td>
 <td width="50%">
 
-### Quality Practices
+<strong>Quality Practices</strong>
 
 Testing, documentation, reproducible workflows, code review, performance debugging.
 
@@ -173,7 +173,6 @@ I am currently focused on:
 **GitHub:** github.com/HaXer420  
 **LinkedIn:** linkedin.com/in/massab-jutt  
 **Portfolio:** www.massab.dev
-
 
 <!---
 HaXer420/HaXer420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
