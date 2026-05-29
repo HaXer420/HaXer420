@@ -170,8 +170,8 @@ I am currently focused on:
 ## Contact
 
 **Email:** massabiftkhar@gmail.com  
-**GitHub:** github.com/HaXer420  
-**LinkedIn:** linkedin.com/in/massab-jutt  
+**GitHub:** www.github.com/HaXer420  
+**LinkedIn:** www.linkedin.com/in/massab-jutt  
 **Portfolio:** www.massab.dev
 
 <!---
